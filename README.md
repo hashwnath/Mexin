@@ -1,5 +1,6 @@
 # Mexin
 #Dialects Translation
+
 Although Telangana dialect is widely used in day-to-day conversations which is in verbal form, the literature used in books, newspapers, academic journals etc use formal Telugu language.
 
 A few native writers of Telangana state have strived to keep the dialect alive by using telangana slang in words, poems, essays of their works. As a result of this a limited range of literature , written work of Telangana which are in documental form are produced.
